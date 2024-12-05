@@ -1,0 +1,15 @@
+    Slayd(prezintatsiya) tayorlaydigan bot
+
+1.Bot tuzilishi:
+    1.1 Bot ishlashi uchun bitta kanallarga padpiska bosgan bo'lishi kerak
+
+
+
+    1.2 Botning o'zi qancha kere bo'sa shuncha slayd tayorlash kere
+
+
+    1.3Payment Method
+        1.3.1 Botga Click ulab beriladi
+
+
+I want to write telegram bot that can do Prezintation if I write 12 bot should be create 12 pages prezintations  and send to user pdf format
